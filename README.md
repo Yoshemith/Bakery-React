@@ -1,5 +1,3 @@
-# Bakery Vue
-
-Sitio web hecho con Vue
+# Bakery 
 
 ---- Still building, but in ReactJS ----
